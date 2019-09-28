@@ -9,3 +9,18 @@ frame by frame.
 
 The code can be found in the **Advanced lane finding code final.py**.
 
+- camera_cal
+
+The folder contains the chessboard images used to calibrate the camera.
+
+- test_images
+
+Some images used to test the code.
+
+- output_videos
+
+Contains a video processed by the code to show how well it works.
+
+## More detail about the code
+More detailed description about the code can be found in the write_up.md.
+
