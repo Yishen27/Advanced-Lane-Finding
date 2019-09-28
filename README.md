@@ -5,6 +5,6 @@ highlighted plus the value of lane curve radius and the offset of the car(camera
 frame by frame.
 
 ## File Structure
--Code
+- Code
 The code can be found in the **Advanced lane finding code final.py**.
 
