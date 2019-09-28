@@ -4,6 +4,7 @@ This is a project aiming at finding lane lines in imported images. The code is c
 highlighted plus the value of lane curve radius and the offset of the car(camera position) from the lane center. It can also process a video
 frame by frame.
 
-## Code
+## File Structure
+-Code
 The code can be found in the **Advanced lane finding code final.py**.
 
